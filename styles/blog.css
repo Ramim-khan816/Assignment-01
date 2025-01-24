@@ -283,9 +283,8 @@ header button {
     cursor: pointer;
   }
   
-  button:hover {
-    background-color: #45a049;
-  }  
+   
+  
 .bold{
     margin-bottom: 20px;
     font: bold;
